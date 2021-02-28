@@ -1,0 +1,15 @@
+{
+    "configurations": [
+    
+        {
+            "type": "java",
+            "name": "Spring Boot-RestServiceApplication<rest-service>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "com.example.restservice.RestServiceApplication",
+            "projectName": "rest-service",
+            "args": ""
+        }
+    ]
+}
